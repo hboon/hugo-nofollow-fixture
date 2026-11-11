@@ -1,0 +1,24 @@
+{
+  "page": "blog/retry-failed-jobs/index.html",
+  "links": [
+    {
+      "source": "shortcode",
+      "href": "https://logsift.example/guides/job-logs",
+      "text": "guide to structured job logs",
+      "rel": ["nofollow"]
+    },
+    {
+      "source": "markdown",
+      "href": "https://logsift.example/guides/job-logs",
+      "text": "guide to structured job logs",
+      "rel": []
+    }
+  ],
+  "omitted": [
+    {
+      "source": "inline-html",
+      "paragraphStartsWith": "Inline HTML in the same file:",
+      "text": "guide to structured job logs"
+    }
+  ]
+}

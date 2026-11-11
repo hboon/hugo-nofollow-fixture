@@ -1,0 +1,2 @@
+hugo v0.169.0-1da10fc44701c566b1669cdb2d12638f155138bd darwin/arm64 BuildDate=2026-10-27T14:52:20Z VendorInfo=gohugoio
+Accepted local build: 2026-11-10. CI installs the linux-amd64 release of the same version.

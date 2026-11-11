@@ -1,0 +1,3 @@
+baseURL = "https://tidyqueue.example/"
+title = "tidyqueue"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
